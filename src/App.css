@@ -1,0 +1,31 @@
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.welcome {
+  justify-content: center;
+}
+
+.flex{
+  display: flex;
+}
+.toolbar{
+  position: fixed;
+  width: 100%;
+  background:  rgba(210,255,82,1);
+  height: 56px;
+}
+
+.particles{
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}

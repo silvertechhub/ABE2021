@@ -1,0 +1,17 @@
+.center{
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.asin{
+    border: 1px solid white;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.font{
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
